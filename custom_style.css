@@ -1,0 +1,50 @@
+h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.post-body h2 {
+    font-size: 22px;
+}
+#Header1_headerimg {
+    height: 250px;
+    width: auto;
+}
+.header-outer {
+    background: #f6f6f6;
+}
+#committee_table {
+    width: 100%
+}
+#committee_table tr {
+    height: 330px;
+}
+#committee_table td {
+    vertical-align: top;
+}
+#committee_table td div {
+    line-height: 1.8em;
+}
+#committee_table td.committee_table_title {
+    width: 230px;
+    text-align: right;
+    padding-right: 20px;
+}
+#committee_table td.committee_table_pic {
+    width: 280px
+}
+#committee_table td.committee_table_info {
+    width: auto
+}
+#committee_table div.chinese_name {
+    font-size: 1.5em;
+}
+#committee_table div.chinese_title {
+    font-size: 1.5em;
+}
+#committee_table div.english_title {
+    font-size: 0.8em;
+}
+#committee_table div.committee_table_info_div {
+    padding-left: 20px;
+    border-left: 5px solid brown;
+}
