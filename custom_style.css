@@ -48,16 +48,25 @@ h4 {
     padding-left: 20px;
     border-left: 5px solid brown;
 }
+
+#registration_table {
+    font-size: 1.2em;
+}
 #registration_table .registration_community {
     text-align: right;
     padding-right: 20px;
-    width: 200px;
+    width: 300px;
 }
 #registration_table div.registration_community_title {
-    font-size: 1.7em;
+    font-size: 1.4em;
 }
-#registration_table tr {
-    vertical-align: top;
+
+#registration_table tbody>tr>td {
+    vertical-align: middle;
+}
+
+#registration_table .registration_fee {
+    text-align: center;
 }
 #registration_table .registration_period {
     font-size: 1.5 em;
@@ -133,5 +142,9 @@ border-bottom: 10px solid #1d6391;
 }
 
 .speaker-cv p {
+    line-height: 1.6em;
+}
+
+p {
     line-height: 1.6em;
 }
