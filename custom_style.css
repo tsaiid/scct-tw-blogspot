@@ -48,3 +48,90 @@ h4 {
     padding-left: 20px;
     border-left: 5px solid brown;
 }
+#registration_table .registration_community {
+    text-align: right;
+    padding-right: 20px;
+    width: 200px;
+}
+#registration_table div.registration_community_title {
+    font-size: 1.7em;
+}
+#registration_table tr {
+    vertical-align: top;
+}
+#registration_table .registration_period {
+    font-size: 1.5 em;
+}
+#registration_table .registration_period_date {
+    font-size: 0.8em;
+}
+.pricing-table-header-member {
+    padding: 5px 0 5px 0;
+    background: #16a085;
+    border-bottom: 10px solid #14937a;
+}
+.pricing-table-qrcode {
+    margin: 15px 10px 0 10px;
+    padding: 0 10px 15px 10px;
+    border-bottom: 1px dashed #888;
+    text-align: center;
+    line-height: 20px;
+    font-size: 14px;
+    color: #888;
+}
+.pricing-table-signup-member {
+    margin-top: 25px;
+    padding-bottom: 10px;
+}
+.pricing-member {
+    margin: 20px 0;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
+    border: 1px solid #14937a;
+    border-bottom: 10px solid #14937a;
+    text-align: center;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.pricing-table-header-premember {
+    padding: 5px 0 5px 0;
+    background: #f39c12;
+    border-bottom: 10px solid #cd8109;
+}
+.pricing-table-signup-premember {
+    margin-top: 25px;
+    padding-bottom: 10px;
+}
+.pricing-premember {
+    margin: 20px 0;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
+    border: 1px solid #cd8109;
+    border-bottom: 10px solid #cd8109;
+    text-align: center;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.pricing-table-header-technician {
+    padding: 5px 0 5px 0;
+background: #2980b9;
+border-bottom: 10px solid #1d6391;
+}
+.pricing-table-signup-technician {
+    margin-top: 25px;
+    padding-bottom: 10px;
+}
+.pricing-technician {
+    margin: 20px 0;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
+    border: 1px solid #1d6391;
+    border-bottom: 10px solid #1d6391;
+    text-align: center;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.pricing-table {
+    color: #eee;
+}
+
+.speaker-cv p {
+    line-height: 1.6em;
+}
