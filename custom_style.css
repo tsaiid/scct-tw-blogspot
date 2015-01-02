@@ -141,6 +141,10 @@ border-bottom: 10px solid #1d6391;
     color: #eee;
 }
 
+.pricing-table a {
+    color: #fff;
+}
+
 .speaker-cv p {
     line-height: 1.6em;
 }
@@ -156,4 +160,8 @@ p {
 
 #my_nav ul li.active a {
     color: white;
+}
+
+div#my_nav {
+    width: 293px;
 }
