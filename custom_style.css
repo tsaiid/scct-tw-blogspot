@@ -148,3 +148,12 @@ border-bottom: 10px solid #1d6391;
 p {
     line-height: 1.6em;
 }
+
+#my_nav.affix {
+    top: 20px;
+    width: 293px;
+}
+
+#my_nav ul li.active a {
+    color: white;
+}
