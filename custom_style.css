@@ -155,8 +155,9 @@ h4 {
 .pricing-table {
     color: #eee;
 }
-.pricing-table a {
+.pricing-table a, .pricing-table a:hover, .pricing-table a:visited {
     color: #fff;
+    text-decoration: none;
 }
 .speaker-cv p {
     line-height: 1.6em;
@@ -177,4 +178,7 @@ div#my_nav {
 em {
     font-weight: bold;
     font-style: normal;
+}
+.article p {
+    text-indent: 2em;
 }
