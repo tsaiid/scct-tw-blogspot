@@ -152,24 +152,6 @@ h4 {
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
-.pricing-table-header-international {
-    padding: 5px 0 5px 0;
-    background: #d9534f;
-    border-bottom: 10px solid #7c211e;
-}
-.pricing-table-signup-international {
-    margin-top: 25px;
-    padding-bottom: 10px;
-}
-.pricing-international {
-    margin: 20px 0;
-    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .2);
-    border: 1px solid #7c211e;
-    border-bottom: 10px solid #7c211e;
-    text-align: center;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-}
 .pricing-table {
     color: #eee;
 }
