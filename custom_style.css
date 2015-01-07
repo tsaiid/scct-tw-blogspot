@@ -171,13 +171,14 @@ p {
 #my_nav ul li.active a {
     color: white;
 }
-div#my_nav {
-    width: 293px;
-}
 em {
     font-weight: bold;
     font-style: normal;
 }
 .article p {
     text-indent: 2em;
+}
+
+.panel {
+    margin-bottom: 3em !important;
 }
