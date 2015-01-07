@@ -167,7 +167,6 @@ p {
 }
 #my_nav.affix {
     top: 20px;
-    width: 293px;
 }
 #my_nav ul li.active a {
     color: white;
